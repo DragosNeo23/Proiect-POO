@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1675131852 source:/sysroot/home/dragos/Documents/Informatica/Proiect/main.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"internat.h"
+	"Cladire.h"
+	"Camera.h"
+	"Elev.h"
+
+1675109770 /sysroot/home/dragos/Documents/Informatica/Proiect/include/internat.h
+	"Cladire.h"
+	"Camera.h"
+
+1675109770 /sysroot/home/dragos/Documents/Informatica/Proiect/include/Cladire.h
+
+1675110052 /sysroot/home/dragos/Documents/Informatica/Proiect/include/Camera.h
+	"Elev.h"
+
+1675130316 /sysroot/home/dragos/Documents/Informatica/Proiect/include/Elev.h
+
+1675109770 source:/sysroot/home/dragos/Documents/Informatica/Proiect/src/Camera.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"Camera.h"
+
+1675130063 source:/sysroot/home/dragos/Documents/Informatica/Proiect/src/Cladire.cpp
+	"Cladire.h"
+
+1675130316 source:/sysroot/home/dragos/Documents/Informatica/Proiect/src/Elev.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"Elev.h"
+
+1675130063 source:/sysroot/home/dragos/Documents/Informatica/Proiect/src/internat.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"internat.h"
+
+1686738826 source:d:\99999999999999999999999999999999999999\1111111111111111\main.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"internat.h"
+	"Cladire.h"
+	"Camera.h"
+	"Elev.h"
+
+1686738826 d:\99999999999999999999999999999999999999\1111111111111111\include\internat.h
+	"Cladire.h"
+	"Camera.h"
+
+1686738826 d:\99999999999999999999999999999999999999\1111111111111111\include\cladire.h
+
+1686738826 d:\99999999999999999999999999999999999999\1111111111111111\include\camera.h
+	"Elev.h"
+
+1686738826 d:\99999999999999999999999999999999999999\1111111111111111\include\elev.h
+
+1686738828 source:d:\99999999999999999999999999999999999999\1111111111111111\src\elev.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"Elev.h"
+
+1686738828 source:d:\99999999999999999999999999999999999999\1111111111111111\src\camera.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"Camera.h"
+
+1686738828 source:d:\99999999999999999999999999999999999999\1111111111111111\src\cladire.cpp
+	"Cladire.h"
+
+1686738828 source:d:\99999999999999999999999999999999999999\1111111111111111\src\internat.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"internat.h"
+
